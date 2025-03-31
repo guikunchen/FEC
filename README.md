@@ -71,9 +71,10 @@ If you find this work useful in your research, please star our repository and co
 
 ```
 @inproceedings{chen2024neural,
-  title={Neural Clustering based Visual Representation Learning},
+  title={Neural clustering based visual representation learning},
   author={Chen, Guikun and Li, Xia and Yang, Yi and Wang, Wenguan},
   booktitle={CVPR},
+  pages={5714--5725},
   year={2024}
 }
 ```
