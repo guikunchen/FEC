@@ -6,7 +6,7 @@
 >[Guikun Chen](https://scholar.google.com/citations?user=I1TOdpkAAAAJ), [Xia Li](https://xialipku.github.io/), [Yi Yang](https://scholar.google.com/citations?hl=zh-CN&user=RMSuNFwAAAAJ), [Wenguan Wang](https://sites.google.com/view/wenguanwang)
 >
 
-This is the official implementation of "Neural Clustering based Visual Representation Learning" (Accepted at CVPR 2024).
+This is the official implementation of "Neural Clustering based Visual Representation Learning" (Accepted at CVPR 2024) and journal submission (please see [FEC+](models/fec_plus.py)).
 
 ## Abstract
 
